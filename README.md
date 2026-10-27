@@ -21,4 +21,4 @@ See my [xda forum thread](https://xdaforums.com/t/mod-magisk-root-fireos-7-8-dol
 
 Shows information about currently playing video and audio, plus some device statistics on a small set of Android TV devices.
 
-See [my avsforum thread](https://www.avsforum.com/threads/video-information-overlay-for-select-android-tv-devices.3354271/) for more information.
+See my [avsforum thread](https://www.avsforum.com/threads/video-information-overlay-for-select-android-tv-devices.3354271/) for more information.
